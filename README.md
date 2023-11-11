@@ -39,3 +39,5 @@
 
 ### Notebook-1
 1. Understanding collection, string, list and slicing.
+
+> Note: This repository is created as a part of assignment, learning version control with Git and GitHub for educational purposes for course "Essential Tools for Scientific Computing" at IIT KGP.
